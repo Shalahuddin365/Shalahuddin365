@@ -8,11 +8,11 @@
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
 👨‍💻 Skills & Experiance:
-✅ WordPress
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ Photoshop / Illustrator
+✅ WordPress <br>
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator 
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning JavaScript 
