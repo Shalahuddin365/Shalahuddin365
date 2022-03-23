@@ -1,12 +1,18 @@
 ![I am Web Developer](https://scontent.fdac8-1.fna.fbcdn.net/v/t1.6435-9/90941573_1069297533432452_3140343416680873984_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGm6OqlBzuilV3InQ74YRGk4N4joQV-laLg3iOhBX6VoigTEbzbH3bhAOKzDGmjuW8mrkDWRQpayEbLT1Bk22TG&_nc_ohc=jZSeS_HoAyEAX_BHNh7&_nc_ht=scontent.fdac8-1.fna&oh=00_AT8R_VjuRKgoZ9bPPLwu7wmHFjMSp2j6LpkO-QxuFfWuSA&oe=62602B11)
+## Hi , I'm Shalahuddin Islam 👋
+<p>
+👑 I am Web Developer <br>
+🖊️ Love to write code <br>
+🎤 Like to share my knowledge <br> </p>
 
-### Hi there 👋, My Name Is Shalahuddin Islam
-#### I am Web Developer
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
-
-II’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
-
-Skills: REACT / JS / HTML / CSS /PYTHON
+👨‍💻 Skills & Experiance:
+✅ WordPress
+✅ JavaScript
+✅ PHP
+✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ Photoshop / Illustrator
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning JavaScript 
